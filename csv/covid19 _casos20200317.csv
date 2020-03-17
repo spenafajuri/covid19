@@ -1,0 +1,202 @@
+﻿id,region,sexo,edad,centrosalud,fechainiciosintoma,fechaconfirmacion,severidad
+1,RM,f,54,Clinica Alemana,3/3/20,3/11/20,leve
+2,RM,f,40,Clinica Santa María,3/11/20,3/11/20,leve
+3,RM,m,58,Clinica Alemana,3/4/20,3/11/20,leve
+4,RM,m,17,Clinica Alemana,3/5/20,3/11/20,leve
+5,RM,f,83,Clínica Las Condes,3/4/20,3/11/20,leve
+6,RM,m,14,Clinica Alemana,3/5/20,3/11/20,leve
+7,RM,m,42,Clínica U. de los Andes,3/4/20,3/11/20,leve
+8,RM,m,40,Clínica U. de los Andes,3/8/20,3/11/20,leve
+9,RM,f,31,Clinica Santa María,3/11/20,3/11/20,leve
+10,RM,f,32,Clinica Alemana,3/11/20,3/11/20,leve
+11,RM,f,58,Clinica Santa María,3/11/20,3/11/20,leve
+12,RM,f,48,Clinica Alemana,3/11/20,3/11/20,leve
+13,RM,f,23,Hospital de Carabineros,3/11/20,3/11/20,leve
+14,RM,m,26,Red Salud UC,3/11/20,3/11/20,leve
+15,MA,f,33,Hospital de Talca,3/3/20,3/11/20,leve
+16,MA,m,33,Hospital de Talca,3/2/20,3/11/20,leve
+17,MA,m,39,Hospital de Talca,3/7/20,3/11/20,leve
+18,MA,f,2,Hospital de Talca,3/8/20,3/11/20,leve
+19,MA,m,21,Hospital de Talca,3/11/20,3/11/20,leve
+20,MA,f,24,Hospital de Talca,3/11/20,3/11/20,leve
+21,MA,m,29,Hospital de Curicó,3/11/20,3/11/20,leve
+22,BI,m,34,Hospital G. Grant,3/11/20,3/11/20,leve
+23,LL,f,20,Hospital de Puerto Montt,3/11/20,3/11/20,leve
+24,RM,f,46,Clinica Alemana,3/12/20,3/12/20,leve
+25,RM,m,67,Clinica Alemana,3/12/20,3/12/20,leve
+26,RM,f,31,Clinica Alemana,3/12/20,3/12/20,leve
+27,RM,f,46,Clinica Alemana,3/12/20,3/12/20,leve
+28,RM,m,23,Clinica Alemana,3/12/20,3/12/20,leve
+29,RM,f,34,Clinica Tabancura,3/12/20,3/12/20,leve
+30,RM,f,29,Clinica Las Condes,3/12/20,3/12/20,leve
+31,RM,f,28,Clinica Las Condes,3/12/20,3/12/20,leve
+32,RM,f,21,Laboratorio Integramédica,3/12/20,3/12/20,leve
+33,NB,m,29,Clinica de Chillán,3/12/20,3/12/20,leve
+34,RM,m,35,Clinica Red Salud Santiago,3/13/20,3/13/20,severo
+35,RM,f,50,Clinica Tabancura,3/13/20,3/13/20,leve
+36,RM,m,,Red Salud Vitacura,3/13/20,3/13/20,leve
+37,RM,m,31,Clínica U. de los Andes,3/13/20,3/13/20,leve
+38,RM,m,47,Clinica Indisa,3/13/20,3/13/20,severo
+39,RM,m,39,Red Salud UC,3/13/20,3/13/20,leve
+40,MA,f,38,Hospital de Talca,3/13/20,3/13/20,leve
+41,NB,m,16,Hospital de Chillán,3/13/20,3/13/20,leve
+42,BI,m,32,Clínica Universitaria,3/13/20,3/13/20,leve
+43,BI,m,38,Hospital de Los Angeles,3/13/20,3/13/20,leve
+44,AN,f,58,Hospital Carlos Cisternas,3/14/20,3/14/20,leve
+45,AN,M,63,Hospital Carlos Cisternas,3/14/20,3/14/20,leve
+46,AT,m,50,Hospital de Copiapó,3/14/20,3/14/20,leve
+47,RM,f,37,Laboratorio Integramédica,3/14/20,3/14/20,leve
+48,RM,m,28,Pontificia Universidad Católica,3/14/20,3/14/20,leve
+49,RM,m,29,Red de Salud UC,3/14/20,3/14/20,leve
+50,RM,m,28,Clinica U. de los Andes,3/14/20,3/14/20,leve
+51,RM,m,53,Clinica Indisa,3/14/20,3/14/20,leve
+52,RM,m,38,Laboratorio Integramédica,3/14/20,3/14/20,leve
+53,RM,f,55,Laboratorio Bionet,3/14/20,3/14/20,leve
+54,RM,f,51,Laboratorio Integramédica,3/14/20,3/14/20,leve
+55,RM,f,23,Clinica Santa María,3/14/20,3/14/20,leve
+56,RM,m,36,Clinica Las Condes,3/14/20,3/14/20,leve
+57,RM,f,58,Clinica Las Condes,3/14/20,3/14/20,leve
+58,MA,m,53,Hospital de Talca,3/14/20,3/14/20,leve
+59,NB,m,23,Hospital de Chillán,3/14/20,3/14/20,leve
+60,NB,m,23,Clínica de Chillán,3/14/20,3/14/20,leve
+61,AY,m,83,Hospital de Aysén,3/14/20,3/14/20,leve
+62,RM,m,42,Laboratorio Bionet,3/15/20,3/15/20,leve
+63,RM,f,49,Hospital del Trabajador,3/15/20,3/15/20,leve
+64,RM,m,29,Clinica U. de los Andes,3/15/20,3/15/20,leve
+65,RM,m,61,Red de Salud UC,3/15/20,3/15/20,leve
+66,RM,f,15,Red de Salud UC,3/15/20,3/15/20,leve
+67,RM,m,,Megasalud,3/15/20,3/15/20,leve
+68,RM,m,42,Mutual de Seguridad,3/15/20,3/15/20,leve
+69,RM,f,48,Clinica Alemana,3/15/20,3/15/20,leve
+70,RM,m,45,Red de Salud UC,3/15/20,3/15/20,leve
+71,RM,m,29,Clinica Vespucio,3/15/20,3/15/20,leve
+72,RM,m,24,Red de Salud UC,3/15/20,3/15/20,leve
+73,RM,m,45,Red de Salud UC,3/15/20,3/15/20,leve
+74,RM,m,70,Clinica U. de los Andes,3/15/20,3/15/20,leve
+75,RM,f,58,Clinica Las Condes,3/15/20,3/15/20,leve
+76,VA,m,34,Clínica Ciudad del Mar,3/16/20,3/16/20,
+77,RM,m,43,Hospital San juan de Dios,3/16/20,3/16/20,
+78,RM,f,45,Hospital San juan de Dios,3/16/20,3/16/20,
+79,RM,f,38,Hospital del Trabajador,3/16/20,3/16/20,
+80,RM,f,53,Hospital del Profesor,3/16/20,3/16/20,
+81,RM,f,38,Bioxell Laboratorio Clinico Ltda.,3/16/20,3/16/20,
+82,RM,f,32,Megasalud. S. A.,3/16/20,3/16/20,
+83,RM,f,39,Clinica Las Condes,3/16/20,3/16/20,
+84,RM,m,35,Mutual de Seguridad,3/16/20,3/16/20,
+85,RM,f,32,Clinica UC San Carlos de Apoquindo,3/16/20,3/16/20,
+86,RM,m,31,Clinica UC San Carlos de Apoquindo,3/16/20,3/16/20,
+87,RM,m,46,Clinica UC San Carlos de Apoquindo,3/16/20,3/16/20,
+88,RM,f,35,Clinica UC San Carlos de Apoquindo,3/16/20,3/16/20,
+89,RM,f,63,Integramédica,3/16/20,3/16/20,
+90,RM,f,62,Integramédica,3/16/20,3/16/20,
+91,RM,f,62,Integramédica,3/16/20,3/16/20,
+92,RM,m,52,Laboratorio Bionet,3/16/20,3/16/20,
+93,RM,f,34,Laboratorio Bionet,3/16/20,3/16/20,
+94,RM,f,33,Clinica Dávila,3/16/20,3/16/20,
+95,RM,m,42,Clinica Dávila,3/16/20,3/16/20,
+96,RM,f,29,Clinica Dávila,3/16/20,3/16/20,
+97,RM,m,28,Clínica Alemana,3/16/20,3/16/20,
+98,RM,f,27,Clínica Alemana,3/16/20,3/16/20,
+99,RM,m,40,Clínica Alemana,3/16/20,3/16/20,
+100,RM,f,24,Clínica Alemana,3/16/20,3/16/20,
+101,RM,f,49,Clínica Alemana,3/16/20,3/16/20,
+102,RM,f,—,Clínica Alemana,3/16/20,3/16/20,
+103,RM,m,33,Clínica Alemana,3/16/20,3/16/20,
+104,RM,f,29,Clínica Alemana,3/16/20,3/16/20,
+105,RM,m,59,Clínica Alemana,3/16/20,3/16/20,
+106,RM,m,13,Clínica Alemana,3/16/20,3/16/20,
+107,RM,m,33,Clínica Alemana,3/16/20,3/16/20,
+108,RM,m,33,Clínica Alemana,3/16/20,3/16/20,
+109,RM,m,45,Clínica Alemana,3/16/20,3/16/20,
+110,RM,m,41,Clínica Alemana,3/16/20,3/16/20,
+111,RM,f,29,Clínica Alemana,3/16/20,3/16/20,
+112,RM,m,37,Clínica Alemana,3/16/20,3/16/20,
+113,RM,f,40,Clínica Alemana,3/16/20,3/16/20,
+114,RM,m,58,Clínica Alemana,3/16/20,3/16/20,
+115,RM,f,31,Clínica Alemana,3/16/20,3/16/20,
+116,RM,m,48,Clínica Alemana,3/16/20,3/16/20,
+117,RM,m,41,Clínica Alemana,3/16/20,3/16/20,
+118,RM,f,45,Clínica Alemana,3/16/20,3/16/20,
+119,RM,f,33,Clínica Alemana,3/16/20,3/16/20,
+120,RM,f,54,Clínica Alemana,3/16/20,3/16/20,
+121,RM,f,40,Clínica Alemana,3/16/20,3/16/20,
+122,RM,f,27,Clínica Santa María,3/16/20,3/16/20,
+123,RM,f,23,Clínica Santa María,3/16/20,3/16/20,
+124,RM,f,39,Clínica Santa María,3/16/20,3/16/20,
+125,RM,f,41,Clínica Santa María,3/16/20,3/16/20,
+126,RM,m,43,Clínica Santa María,3/16/20,3/16/20,
+127,RM,f,49,Clínica Santa María,3/16/20,3/16/20,
+128,RM,f,30,Clínica Santa María,3/16/20,3/16/20,
+129,RM,f,35,Clínica Santa María,3/16/20,3/16/20,
+130,RM,f,46,Clínica Santa María,3/16/20,3/16/20,
+131,RM,f,31,Clínica Santa María,3/16/20,3/16/20,
+132,RM,m,40,Clínica Santa María,3/16/20,3/16/20,
+133,RM,f,44,Clínica Santa María,3/16/20,3/16/20,
+134,RM,f,42,Clínica Santa María,3/16/20,3/16/20,
+135,RM,f,43,Clínica Santa María,3/16/20,3/16/20,
+136,RM,f,39,Clínica Santa María,3/16/20,3/16/20,
+137,RM,f,26,Clínica Santa María,3/16/20,3/16/20,
+138,RM,m,46,Clínica Santa María,3/16/20,3/16/20,
+139,RM,f,41,Clínica Santa María,3/16/20,3/16/20,
+140,RM,m,51,Clínica Santa María,3/16/20,3/16/20,
+141,RM,f,31,Clínica Santa María,3/16/20,3/16/20,
+142,RM,f,1,Clínica Santa María,3/16/20,3/16/20,
+143,RM,f,5,Clínica Santa María,3/16/20,3/16/20,
+144,RM,m,45,Clínica Santa María,3/16/20,3/16/20,
+145,RM,f,29,Clinica Las Condes,3/16/20,3/16/20,
+146,NB,m,38,Clínica de Chillán,3/16/20,3/16/20,
+147,NB,m,26,Clínica de Chillán,3/16/20,3/16/20,
+148,NB,f,42,Clínica de Chillán,3/16/20,3/16/20,
+149,NB,f,38,Hospital de Chillán,3/16/20,3/16/20,
+150,NB,m,32,Clínica de Chillán,3/16/20,3/16/20,
+151,NB,m,31,Hospital de Chillán,3/16/20,3/16/20,
+152,NB,m,24,Hospital de Chillán,3/16/20,3/16/20,
+153,NB,m,39,Clínica de Chillán,3/16/20,3/16/20,
+154,BI,f,47,Clinica Biobío,3/16/20,3/16/20,
+155,RM,f,61,Mutual de Seguridad,3/17/20,3/17/20,
+156,RM,m,33,Mutual de Seguridad,3/17/20,3/17/20,
+157,RM,f,48,Clinica Alemana,3/17/20,3/17/20,
+158,RM,m,31,Clinica Alemana,3/17/20,3/17/20,
+159,RM,m,32,Clinica Alemana,3/17/20,3/17/20,
+160,RM,f,56,Clinica Alemana,3/17/20,3/17/20,
+161,RM,m,56,Clinica Alemana,3/17/20,3/17/20,
+162,RM,f,75,Hospital La Florida,3/17/20,3/17/20,
+163,RM,f,47,Hospital del Salvador,3/17/20,3/17/20,
+164,RM,m,36,Laboratorio Bionet,3/17/20,3/17/20,
+165,RM,m,45,Clinica Las Condes,3/17/20,3/17/20,
+166,RM,f,38,Clinica Las Condes,3/17/20,3/17/20,
+167,RM,f,41,Clinica Las Condes,3/17/20,3/17/20,
+168,RM,m,29,Clinica Las Condes,3/17/20,3/17/20,
+169,RM,m,57,Clinica Dávila,3/17/20,3/17/20,
+170,RM,f,43,Hospital del Trabajador,3/17/20,3/17/20,
+171,RM,f,44,Clinica U. Andes,3/17/20,3/17/20,
+172,RM,f,50,Hospital Lucio Córdova,3/17/20,3/17/20,
+173,RM,f,22,Hospital San juan de Dios,3/17/20,3/17/20,
+174,RM,m,39,Hospital San juan de Dios,3/17/20,3/17/20,
+175,RM,m,43,Clinica San Carlos de Apoquindo,3/17/20,3/17/20,
+176,RM,m,35,Clinica Vespucio,3/17/20,3/17/20,
+177,RM,f,16,Clinica Alemana,3/17/20,3/17/20,
+178,RM,f,50,Clinica Alemana,3/17/20,3/17/20,
+179,RM,m,56,Clinica Alemana,3/17/20,3/17/20,
+180,RM,m,49,Clinica Alemana,3/17/20,3/17/20,
+181,RM,m,28,Clinica Alemana,3/17/20,3/17/20,
+182,RM,f,34,Clinica Alemana,3/17/20,3/17/20,
+183,RM,m,73,Clinica Alemana,3/17/20,3/17/20,
+184,NB,f,33,Hospital de Chillán,3/17/20,3/17/20,
+185,NB,f,29,Hospital de Chillán,3/17/20,3/17/20,
+186,NB,m,43,Hospital de Chillán,3/17/20,3/17/20,
+187,NB,f,27,Hospital de Chillán,3/17/20,3/17/20,
+188,NB,f,37,Clínica de Chillán,3/17/20,3/17/20,
+189,NB,m,40,Hospital de Chillán,3/17/20,3/17/20,
+190,NB,f,27,Hospital de Chillán,3/17/20,3/17/20,
+191,NB,m,36,Clínica de Chillán,3/17/20,3/17/20,
+192,NB,f,30,Hospital de Chillán,3/17/20,3/17/20,
+193,NB,f,26,Hospital de Chillán,3/17/20,3/17/20,
+194,NB,m,29,Hospital de Chillán,3/17/20,3/17/20,
+195,NB,m,32,Hospital de Chillán,3/17/20,3/17/20,
+196,NB,m,48,Hospital de Chillán,3/17/20,3/17/20,
+197,NB,f,31,Clinica de Chillán,3/17/20,3/17/20,
+198,AR,m,35,Hospital Hernán Henríquez Aravena,3/17/20,3/17/20,
+199,LR,f,1,Clinica Alemana Valdivia,3/17/20,3/17/20,
+200,MG,m,70,Clínica Magallanes,3/17/20,3/17/20,
+201,MG,m,23,Hospital de Punta Arenas,3/17/20,3/17/20,
