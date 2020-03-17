@@ -1,0 +1,44 @@
+﻿id,region,sexo,edad,centrosalud,fechainiciosintoma,fechaconfirmacion,severidad
+1,RM,f,56,Clinica Alemana,3/11/20,3/11/20,leve
+2,RM,f,40,Clinica Santa María,3/11/20,3/11/20,leve
+3,RM,m,58,Clinica Santa María,3/11/20,3/11/20,leve
+4,RM,m,17,Clinica Alemana,3/5/20,3/11/20,leve
+5,RM,f,83,Clínica Las Condes,3/4/20,3/11/20,leve
+6,RM,m,14,Clinica Alemana,3/5/20,3/11/20,leve
+7,RM,m,42,Clínica U. de los Andes,3/4/20,3/11/20,leve
+8,RM,m,40,Clínica U. de los Andes,3/8/20,3/11/20,leve
+9,RM,f,31,Clinica Santa María,3/11/20,3/11/20,leve
+10,RM,f,32,Clinica Alemana,3/11/20,3/11/20,leve
+11,RM,f,58,Clinica Santa María,3/11/20,3/11/20,leve
+12,RM,f,48,Clinica Alemana,3/11/20,3/11/20,leve
+13,RM,f,23,Hospital de Carabineros,3/11/20,3/11/20,leve
+14,RM,m,26,Red Salud UC,3/11/20,3/11/20,leve
+15,MA,f,33,Hospital de Talca,3/3/20,3/11/20,leve
+16,MA,m,33,Hospital de Talca,3/2/20,3/11/20,leve
+17,MA,m,39,Hospital de Talca,3/7/20,3/11/20,leve
+18,MA,f,2,Hospital de Talca,3/8/20,3/11/20,leve
+19,MA,m,21,Hospital de Talca,3/11/20,3/11/20,leve
+20,MA,f,24,Hospital de Talca,3/11/20,3/11/20,leve
+21,MA,m,29,Hospital de Curicó,3/11/20,3/11/20,leve
+22,BI,m,38,Hospital G. Grant,3/11/20,3/11/20,leve
+23,LL,f,20,Hospital de Puerto Montt,3/11/20,3/11/20,leve
+24,RM,f,46,Clinica Alemana,3/12/20,3/12/20,leve
+25,RM,m,67,Clinica Alemana,3/12/20,3/12/20,leve
+26,RM,f,31,Clinica Alemana,3/12/20,3/12/20,leve
+27,RM,f,46,Clinica Alemana,3/12/20,3/12/20,leve
+28,RM,m,23,Clinica Alemana,3/12/20,3/12/20,leve
+29,RM,f,34,Clinica Tabancura,3/12/20,3/12/20,leve
+30,RM,f,29,Clinica Las Condes,3/12/20,3/12/20,leve
+31,RM,f,28,Clinica Las Condes,3/12/20,3/12/20,leve
+32,RM,f,21,Laboratorio Integramédica,3/12/20,3/12/20,leve
+33,NB,m,29,Clinica de Chillán,3/12/20,3/12/20,leve
+34,RM,m,35,Clinica Red Salud Santiago,3/13/20,3/13/20,leve
+35,RM,f,50,Clinica Tabancura,3/13/20,3/13/20,leve
+36,RM,m,,Red Salud Vitacura,3/13/20,3/13/20,leve
+37,RM,m,31,Clínica U. de los Andes,3/13/20,3/13/20,leve
+38,RM,m,47,Clinica Indisa,3/13/20,3/13/20,leve
+39,RM,m,39,Red Salud UC,3/13/20,3/13/20,leve
+40,MA,f,38,Hospital de Talca,3/13/20,3/13/20,leve
+41,NB,m,16,Hospital de Chillán,3/13/20,3/13/20,leve
+42,BI,m,32,Clínica Universitaria,3/13/20,3/13/20,leve
+43,BI,m,38,Hospital de Los Angeles,3/13/20,3/13/20,leve

@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "csv": "mkdir csv && ls xlsx | xargs -I {} basename {} .xlsx | xargs -I {} npx xlsx \"xlsx/\"{}\".xlsx\" -o \"csv/\"{}\".csv\""
+  }
+}

@@ -1,0 +1,24 @@
+﻿id,region,sexo,edad,centrosalud,fechainiciosintoma,fechaconfirmacion
+1,RM,f,56,Clinica Alemana,,3/11/20
+2,RM,f,40,Clinica Santa María,,3/11/20
+3,RM,m,58,Clinica Santa María,,3/11/20
+4,RM,m,17,Clinica Alemana,,3/11/20
+5,RM,f,83,Clínica Las Condes,,3/11/20
+6,RM,m,14,Clinica Alemana,3/5/20,3/11/20
+7,RM,m,42,Clínica U. de los Andes,3/4/20,3/11/20
+8,RM,m,40,Clínica U. de los Andes,3/8/20,3/11/20
+9,RM,f,31,Clinica Santa María,,3/11/20
+10,RM,f,32,Clinica Alemana,,3/11/20
+11,RM,f,58,Clinica Santa María,,3/11/20
+12,RM,f,48,Clinica Alemana,,3/11/20
+13,RM,f,23,Hospital de Carabineros,,3/11/20
+14,RM,m,26,Red Salud UC,,3/11/20
+15,MA,f,33,Hospital de Talca,3/3/20,3/11/20
+16,MA,m,33,Hospital de Talca,3/2/20,3/11/20
+17,MA,m,39,Hospital de Talca,3/7/20,3/11/20
+18,MA,f,2,Hospital de Talca,3/8/20,3/11/20
+19,MA,m,21,Hospital de Talca,,3/11/20
+20,MA,f,24,Hospital de Talca,,3/11/20
+21,MA,m,29,Hospital de Curicó,,3/11/20
+22,BI,m,38,Hospital G. Grant,,3/11/20
+23,LL,f,20,Hospital de Puerto Montt,,3/11/20
